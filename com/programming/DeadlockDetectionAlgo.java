@@ -145,15 +145,6 @@ public class DeadlockDetectionAlgo
         }
 
         System.out.println("The system is in safe state.Safe sequence:"+safeSequence);
-
-
-
-
-
-
-
-
-
-
+        
     }
 }
